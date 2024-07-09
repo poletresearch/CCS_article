@@ -2,6 +2,7 @@
 ### Notes
 * Each R file we release can run standalone, provided that the necessary R packages (listed within the file) are installed.
 * When running any of the R files, working directory should be set to the directory containing source data files. See comments and data import statements (read.csv) within the code to see which source files are required for each piece of code.
+* Tested with: macOS 14.4.1, R version 4.3.2 (2023-10-31)
 
 ## R code files
 **st1_failure.R** - code used for calculating failure rates from historical CCS data (replication of Supplementary Table 1). Produces a CSV file of Supplementary Table 1 in the working directory provided that it is set to the directory containing source data files. 
