@@ -1,0 +1,380 @@
+"","X","Name","Status","Country","Region","Sector","Subsector","Storage","ActualCapacity","AnnouncedCapacity","ProjectStart","ProposedProjectEnd","ActualProjectEnd","FacilityStart","FacilityEnd"
+"1",2,"H-vision","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,7397,2019,2030,NA,NA,NA
+"2",6,"Terrell Natural Gas Processing plant 2","Completed","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",3562,NA,NA,NA,NA,1998,2014
+"3",8,"Humber Zero - Lindsey Refinery","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,3013,2021,2029,NA,NA,NA
+"4",18,"PCS Nitrogen Geismar Ammonia plant (LA)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,3288,2022,2027,NA,NA,NA
+"5",19,"Pathways CCUS","Future","Canada","R10NORTH_AM",NA,NA,"Non-EOR",NA,27397,2022,2025,NA,NA,NA
+"6",20,"Oxy CE Kleberg County DAC plants (TX)","Future","United States","R10NORTH_AM","DACCS","DACCS","Non-EOR",NA,2749,2022,2025,NA,NA,NA
+"7",21,"Heidelberg Materials CBR Antoing Cement Plant (Project Anthemis)","Future","Belgium","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,2192,2022,NA,NA,NA,NA
+"8",22,"Hinton Bioenergy CCS project (ALB)","Future","Canada","R10NORTH_AM","BECCS Industry","Pulp and Paper",NA,NA,3562,2022,NA,NA,NA,NA
+"9",23,"Holcim Oburg cement plant","Future","Belgium","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,3562,2022,NA,NA,NA,NA
+"10",24,"Heidelberg Materials Mitchell plant (IN)","Future","United States","R10NORTH_AM","Industry: Process","Cement","Non-EOR",NA,5479,2022,NA,NA,NA,NA
+"11",27,"Nutrien’s Redwater Fertilizer Facility","Active","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",500,500,2011,NA,2020,2020,NA
+"12",30,"Kasawari","Future","Malaysia","R10REST_ASIA","NGP","Natural Gas Processing","Non-EOR",NA,9041,2020,NA,NA,NA,NA
+"13",31,"Pouakai CCS","Future","New Zealand","R10PAC_OECD","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2749,2019,2024,NA,NA,NA
+"14",33,"GLACIER CCS PROJECT (Expansion)","Future","Canada","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,372,2021,2024,NA,NA,NA
+"15",34,"Enid","Active","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",1917,NA,NA,NA,NA,1982,NA
+"16",36,"Future Biogas","Future","United Kingdom","R10EUROPE","BECCS Industry","Ethanol","Non-EOR",NA,548,2021,2024,NA,NA,NA
+"17",37,"Veolia Environment CCS Project (aka Claye-Souilly CCS programme)","Not started","France","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,548,2008,2013,2012,NA,NA
+"18",40,"CORY Waste CCS","Future","United Kingdom","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,8219,2021,2026,NA,NA,NA
+"19",41,"Lehigh cement","Future","Canada","R10NORTH_AM","Industry: Process","Cement",NA,NA,1644,2021,NA,NA,NA,NA
+"20",42,"Gotland Cement CCS","Future","Sweden","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,4931.5,2021,2030,NA,NA,NA
+"21",48,"Balcones CEMEX","Future","United States","R10NORTH_AM","Industry: Process","Cement",NA,NA,1370,2021,2030,NA,NA,NA
+"22",49,"Vales Point Power Station CCS Demonstration","Not started","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,273,2012,NA,2015,NA,NA
+"23",50,"Guohua Jinjie CCS Full Chain Demonstration","Active","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",411,411,2019,NA,2021,2021,NA
+"24",52,"Huazhong University of Science and Technology Oxy-fuel Project","Completed","China","R10CHINA+","Fossil Electricity","Coal Power","Non-EOR",25,275,2011,2014,2015,2015,2017
+"25",53,"Ordos Basin Project","Not finished","China","R10CHINA+","Fossil Industry","CTL","EOR",273,2749,2008,NA,2011,2011,2014
+"26",58,"Osaki CoolGen Project","Future","Japan","R10PAC_OECD","Fossil Electricity","Coal Power","Utilisation",NA,273.97,2012,2023,NA,NA,NA
+"27",62,"CalCC Lhoist Air Liquide Lime plant Rety","Future","France","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,1671,2022,2028,NA,NA,NA
+"28",63,"Buzzi Unicem Augusta cement plant","Future","Italy","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,548,2022,NA,NA,NA,NA
+"29",64,"Bushmills Ethanol Atwater (MN)","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,630,2022,2024,NA,NA,NA
+"30",65,"Boryeong Station (Expansion)","Future","South Korea","R10REST_ASIA","Fossil Industry","Hydrogen (NG)",NA,NA,411,2020,2025,NA,NA,NA
+"31",68,"Lapis Energy El Dorado (AR)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1233,2022,2025,NA,NA,NA
+"32",69,"James M  Barry Electric Generating Plant CCUS (AL)","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power",NA,NA,1370,2022,NA,NA,NA,NA
+"33",70,"LG&E Cane Run NGCC CR7 (KY)","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,4658,2022,NA,NA,NA,NA
+"34",72,"Southern Co.’s Carbon Capture and Sequestration Demonstration (Plant Barry, CCPI)","Not finished","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",137,2739,2009,2020,2012,2012,2014
+"35",78,"Bonanza Bioenergy CCUS EOR","Active","United States","R10NORTH_AM","BECCS Industry","Ethanol","EOR",275,275,2010,NA,2012,2012,NA
+"36",79,"Aberdeen Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,392,2021,2024,NA,NA,NA
+"37",80,"Fairmont Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,940,2021,2024,NA,NA,NA
+"38",81,"Federated Co-operatives (aka Belle Plain)","Future","Canada","R10NORTH_AM","BECCS Industry","Ethanol","EOR",NA,1369,2021,2026,NA,NA,NA
+"39",82,"Galva Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,299,2021,2024,NA,NA,NA
+"40",83,"Goldfield Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,589,2021,2024,NA,NA,NA
+"41",84,"Grand Junction Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,940,2021,2024,NA,NA,NA
+"42",85,"Granite Falls Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,493,2021,2024,NA,NA,NA
+"43",86,"Heron Lake Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,510,2021,2024,NA,NA,NA
+"44",87,"Lamberton Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,430,2021,2024,NA,NA,NA
+"45",88,"Mason City Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,940,2021,2024,NA,NA,NA
+"46",89,"Merrill Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,430,2021,2024,NA,NA,NA
+"47",90,"Stavanger waste","Future","Norway","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,274,2021,2030,NA,NA,NA
+"48",91,"Nevada Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,704,2021,2024,NA,NA,NA
+"49",92,"Norfolk Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,416,2021,2024,NA,NA,NA
+"50",93,"Onida Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,627,2021,2024,NA,NA,NA
+"51",94,"Otter Tail Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,471,2021,2024,NA,NA,NA
+"52",95,"Plainview Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,863,2021,2024,NA,NA,NA
+"53",96,"Redfield Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,471,2019,2024,NA,NA,NA
+"54",97,"Shenandoah Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,644,2021,2024,NA,NA,NA
+"55",98,"Sioux Center Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,510,2021,2024,NA,NA,NA
+"56",99,"Steamboat Rock Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,627,2021,2024,NA,NA,NA
+"57",100,"Superior Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,471,2021,2024,NA,NA,NA
+"58",101,"Wood River Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,947,2021,2024,NA,NA,NA
+"59",102,"York Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,392,2021,2024,NA,NA,NA
+"60",103,"Wentworth Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,704,2021,2024,NA,NA,NA
+"61",104,"RSCP (Development Phase): Illinois Basin Decatur Project","Completed","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",684,684,2009,NA,2020,2011,2014
+"62",105,"Decatur ADM (aka Illinois Industrial Carbon Capture and Storage Project)","Active","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",1421,2749,2014,NA,2017,2017,NA
+"63",113,"GEF BECCS project in Brazil ""RCCS - Renewable CO2 Capture and Storage from Sugar Fermentation Industry in Sao Paulo State""","Not started","Brazil","R10LATIN_AM","BECCS Industry","Ethanol","Non-EOR",54.79,2739.73,2009,NA,2014,2013,2014
+"64",117,"Tomakomai","Completed","Japan","R10PAC_OECD","Fossil Industry","Hydrogen (NG)","Non-EOR",273.97,273.97,2012,NA,2016,2016,2019
+"65",120,"Port-Jérôme CCS","Active","France","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",274,274,2012,NA,2015,2015,NA
+"66",124,"Karamay Dunhua Oil Technology CCUS EOR Project","Active","China","R10CHINA+","Fossil Industry","Hydrogen (NG)","EOR",275,NA,NA,NA,NA,2015,NA
+"67",127,"Zero Emission Norwegian Gas Risavika","Not started","Norway","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,348.56,2004,2008,2007,NA,NA
+"68",130,"Jilin Oil Field EOR","Completed","China","R10CHINA+","NGP","Natural Gas Processing","EOR",274,274,2007,NA,2009,2009,2018
+"69",132,"MOL Szank field CO2 EOR","Active","Hungary","R10EUROPE","NGP","Natural Gas Processing","EOR",438,NA,1990,NA,1992,NA,NA
+"70",133,"CNOOC Enping","Future","China","R10CHINA+","NGP","Natural Gas Processing",NA,NA,822,2021,NA,NA,NA,NA
+"71",134,"Jilin Oil Field EOR (Expansion)","Completed","China","R10CHINA+","NGP","Natural Gas Processing","EOR",274,NA,NA,NA,2012,2012,2018
+"72",135,"Ramsey Gas Processing Plant","Not started","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",NA,315,2014,NA,2016,NA,NA
+"73",141,"Fairview ZeroCarbon Project","Not started","Australia","R10PAC_OECD","Fossil Electricity","Natural Gas Power","EOR",NA,274,2007,2015,2015,NA,NA
+"74",148,"iCORD","Future","Croatia","R10EUROPE","Fossil Industry","Hydrogen (NG)","EOR",NA,2750,2019,2025,NA,NA,NA
+"75",153,"PEMEX CCS Project (Carmito)","Completed","Mexico","R10LATIN_AM","NGP","Natural Gas Processing","EOR",600,600,1998,NA,2004,2004,2015
+"76",154,"Horisont energi: Polaris Storage + Blue ammonia production","Future","Norway","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,8219,2021,2025,NA,NA,NA
+"77",158,"Net Zero Teesside - CF Fertilisers","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1917,2018,2028,NA,NA,NA
+"78",159,"CO2 Capture from Coffeyville Fertilizer Plant","Active","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","EOR",2465,2465,2007,NA,2013,2013,NA
+"79",160,"PCS Nitrogen","Active","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",822,2465,2003,NA,2013,2013,NA
+"80",162,"Petrokemija Kutina","Future","Croatia","R10EUROPE","Fossil Industry","Hydrogen (NG)","EOR",NA,520.55,2021,2026,NA,NA,NA
+"81",163,"Donaldsonville CCS","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,5479.45,2020,2024,NA,NA,NA
+"82",164,"Yazoo city CCS","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1370,2020,2024,NA,NA,NA
+"83",165,"PAU Central Sulawesi Clean Fuel Ammonia Production with CCUS","Future","Indonesia","R10REST_ASIA","Fossil Industry","Hydrogen (NG)",NA,NA,NA,2021,NA,NA,NA,NA
+"84",168,"Drax BECCS","Future","United Kingdom","R10EUROPE","BECCS Electricity","Bioenergy","Non-EOR",1,21918,2017,2030,NA,2020,NA
+"85",169,"Velocys’ Bayou Fuels Negative Emission Project","Future","United States","R10NORTH_AM","BECCS Electricity","Bioenergy","Non-EOR",NA,1370,2019,2025,NA,NA,NA
+"86",170,"Clean Energy Systems Carbon Negative Energy Plant - Central Valley (aka Mendota)","Future","United States","R10NORTH_AM","BECCS Electricity","Bioenergy","Non-EOR",NA,956,2019,2025,NA,NA,NA
+"87",171,"Kimberlina","Not started","United States","R10NORTH_AM","BECCS Electricity","Bioenergy","EOR",NA,684.93,2007,2015,2016,NA,NA
+"88",172,"BECCS at STHLM (aka Stockholm Exergi)","Future","Sweden","R10EUROPE","BECCS Electricity","Bioenergy","Non-EOR",NA,2136.9,2020,NA,NA,NA,NA
+"89",173,"Avedøre Power Station CCS","Future","Denmark","R10EUROPE","BECCS Electricity","Bioenergy",NA,NA,2328.76,2021,2027,NA,NA,NA
+"90",176,"LafargeHolcim Genevieve plant (MO)","Future","United States","R10NORTH_AM","Industry: Process","Cement",NA,NA,7945,2021,NA,NA,NA,NA
+"91",180,"LafargeHolcim Cement Carbon capture (Holcim Portland aka CO2MENT)","Future","United States","R10NORTH_AM","Industry: Process","Cement","EOR",NA,1986,2020,2024,NA,NA,NA
+"92",181,"K6 Program","Future","France","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,2219.18,2020,2025,NA,NA,NA
+"93",184,"Sinopec Eastern China CCS in Jiangsu","Active","China","R10CHINA+","Fossil Industry","Hydrogen (Coal)","EOR",547.95,547.95,2014,NA,2022,2022,NA
+"94",186,"FuturGas Project","Not started","Australia","R10PAC_OECD","Fossil Industry","CTL","Non-EOR",NA,4384,2009,2017,2011,NA,NA
+"95",187,"Surat Basin CCS Project (Wandoan) 2 (aka Glencore)","Future","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,301,2015,2024,NA,NA,NA
+"96",188,"Surat Basin CCS Project (Wandoan)","Not started","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,6850,2007,2016,2014,NA,NA
+"97",189,"Kwinana Project (aka BP Rio Tinto Kwinana)","Not started","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,10960,2007,2014,2008,NA,NA
+"98",190,"DelpHYnus","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1918,2021,2027,NA,NA,NA
+"99",191,"Keadby powerplant","Future","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,4110,2022,2025,NA,NA,NA
+"100",192,"Aviva Corp Coolimba Oxyfuel Project","Not started","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,7946,2009,2012,2009,NA,NA
+"101",194,"Monash Energy C to L CO2 Capture and Storage Project","Not started","Australia","R10PAC_OECD","Fossil Industry","Hydrogen (Coal)","Non-EOR",NA,35620,2005,2008,2008,NA,NA
+"102",195,"ZeroGen Project","Not started","Australia","R10PAC_OECD","Fossil Electricity","Coal Power","Non-EOR",NA,5465,2010,2015,2011,NA,NA
+"103",196,"Carbon Engineering Constellation Nuclear DACS at Byron Generation Station (IL)","Future","United States","R10NORTH_AM","DACCS","DACCS","Non-EOR",NA,685,2022,NA,NA,NA,NA
+"104",197,"Carbon America Bridgeport Ethanol (NE)","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,479,2022,NA,NA,NA,NA
+"105",198,"CCUS at Red Hills natural gas processing complex (NM) EOR Phase 2+3","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",NA,1698,2022,NA,NA,NA,NA
+"106",199,"Donghae CCS Project","Future","South Korea","R10REST_ASIA","Fossil Industry","Hydrogen (Oil) and Oil Processing","Non-EOR",NA,1096,2022,NA,NA,NA,NA
+"107",200,"Climeworks Gulf Coast MoU (LA)","Future","United States","R10NORTH_AM","DACCS","DACCS","Non-EOR",NA,2739,2022,NA,NA,NA,NA
+"108",201,"ExxonMobil Baytown petrochemical site (TX)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,19178,2022,NA,NA,NA,NA
+"109",202,"Huaneng Longdong Energy Base Carbon Capture and Storage","Future","China","R10CHINA+","Fossil Electricity","Coal Power",NA,NA,4110,2022,2023,NA,NA,NA
+"110",203,"Cardinal Ethanol Union City (IN)","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1096,2022,NA,NA,NA,NA
+"111",204,"Bridgeport Energy Moonie CCUS project","Future","Australia","R10PAC_OECD",NA,NA,"EOR",NA,2739,2020,NA,NA,NA,NA
+"112",205,"Bulgarian TETs Maritsa Iztok-3","Not started","Bulgaria","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,8932,2010,2020,2012,NA,NA
+"113",206,"Boundary Dam Integrated CCS Project","Active","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",1565,2740,2008,NA,2014,2014,NA
+"114",207,"ANRAV-CCUS (Heidelberg Materials Devnya plant)","Future","Bulgaria","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,2192,2022,2028,NA,NA,NA
+"115",208,"SaskPower Oxyfuel","Not started","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,8000,2006,2012,2010,NA,NA
+"116",209,"Bow City Power Project","Not started","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,2740,2008,2017,2013,NA,NA
+"117",210,"Swan Hills In-Situ Coal Gasification/Sagitawah Power Project","Not started","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",NA,3562,2008,2015,2013,NA,NA
+"118",211,"Belle Plaine Polygen Capture (for EOR)","Not started","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",NA,2740,2007,2013,2013,NA,NA
+"119",212,"Pioneer Project","Not started","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,2740,2009,2015,2012,NA,NA
+"120",213,"Alberta Saline Aquifer Project & Genesee Demonstration Project","Not started","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,3300,2006,2015,2012,NA,NA
+"121",214,"Saskatchewan NET Power Plant","Future","Canada","R10NORTH_AM","Fossil Electricity","Coal Power",NA,NA,2600,2020,NA,NA,NA,NA
+"122",215,"China North-West","Future","China","R10CHINA+","Fossil Industry","Hydrogen (NG)","EOR",NA,4110,2019,2025,NA,NA,NA
+"123",216,"Yanchang Integrated Carbon Capture and Storage Demonstration (Expansion)","Future","China","R10CHINA+","Fossil Industry","Hydrogen (Coal)","EOR",NA,1100,2015,2021,NA,NA,NA
+"124",217,"China Resources Power (Haifeng) Integrated Carbon Capture and Sequestration Demonstration Project","Future","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",137,2740,2015,NA,NA,2019,NA
+"125",218,"Shanxi International Energy Oxyfuel Project","Not started","China","R10CHINA+","Fossil Electricity","Coal Power",NA,NA,6850,2014,NA,2017,NA,NA
+"126",219,"Dongguan Taiyangzhou IGCC","Not started","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,2740,2008,2015,2014,NA,NA
+"127",220,"Greengen Project in China","Not started","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,5480,2004,2012,2012,NA,NA
+"128",221,"Guodian Taizhou Power Station  Carbon Capture","Future","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,822,2011,2023,NA,NA,NA
+"129",222,"Datang Daqing CCS Project","Not started","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,2740,2011,2015,2015,NA,NA
+"130",223,"Lianyungang IGCC with CO2 Capture","Not started","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",110,2740,2011,NA,2014,2012,2014
+"131",224,"Sinopec Shengli Power Plant CCS Project 2","Not finished","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",27.4,2740,2010,2023,2016,NA,NA
+"132",225,"Shenhua Ningxia CTL Project","Not started","China","R10CHINA+","Fossil Industry","Hydrogen (Coal)","EOR",NA,5480,2008,2020,2016,NA,NA
+"133",226,"Hodonin CO2 Separation Project","Not started","Czech Republic","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,821,2008,2015,2012,NA,NA
+"134",227,"Ledvice CEZ Capture and Storage Project (aka North Bohemia Clean Coal Project)","Not started","Czech Republic","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,2465,2008,2015,2012,NA,NA
+"135",228,"Nordjylland Power station","Not started","Denmark","R10EUROPE","BECCS Electricity","Bioenergy","Non-EOR",NA,4930,2008,2013,2011,NA,NA
+"136",229,"FINNCAP - Meri Pori CCS Project","Not started","Finland","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,3288,2009,2015,2010,NA,NA
+"137",230,"Hurth (aka Huerth) IGCC","Not started","Germany","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,6712,2008,2015,2009,NA,NA
+"138",231,"Vattenfall Janschwalde (aka Jaenschwalde)","Not started","Germany","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,4658,2008,2016,2011,NA,NA
+"139",232,"Saline Joniche SEI","Not started","Italy","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,21918,2009,NA,2012,NA,NA
+"140",233,"Porto Telle CCS","Not started","Italy","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,2740,2009,2014,2013,NA,NA
+"141",234,"Delimara","Not started","Malta","R10EUROPE","Fossil Electricity","Coal Power",NA,NA,NA,2010,2015,2013,NA,NA
+"142",235,"C.GEN Rotterdam (aka CGEN NV Europoort)","Not started","Netherlands","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,5479,2008,2014,2010,NA,NA
+"143",236,"RWE CCS Eemshaven (Nuon Magnum)","Not started","Netherlands","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,548,2009,2013,2011,NA,NA
+"144",237,"CATO1 - Rotterdam ROAD project","Not started","Netherlands","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,3014,2009,NA,2017,NA,NA
+"145",238,"SEQ Zero Emission Power Plant (ZEPP)","Not started","Netherlands","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,685,2007,NA,2011,NA,NA
+"146",239,"Southland Coal to Fertiliser Project","Not started","New Zealand","R10PAC_OECD","Fossil Industry","Hydrogen (Coal)","Non-EOR",NA,3290,2009,NA,2013,NA,NA
+"147",240,"Sargas Husnes Norwegian Clean Coal Plant Project","Not started","Norway","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,5479,2006,2015,2008,NA,NA
+"148",241,"Belchatow CCS Project","Not started","Poland","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,5753,2008,2015,2012,NA,NA
+"149",242,"Kedzierzyn","Not started","Poland","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,6850,2008,2019,2013,NA,NA
+"150",243,"Siekierki","Not started","Poland","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,7863,2010,2015,NA,NA,NA
+"151",244,"Getica CCS demo project","Not started","Romania","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,4109.59,2010,2015,2014,NA,NA
+"152",245,"Korean Oxyfuel Programme (aka Yong Dong Oxyfuel aka CCS1?)","Not started","South Korea","R10REST_ASIA","Fossil Electricity","Coal Power","Non-EOR",NA,1600,2007,2017,2014,NA,NA
+"153",246,"Korea CCS 2","Not started","South Korea","R10REST_ASIA","Fossil Electricity","Coal Power","Non-EOR",NA,1370,2010,2018,2016,NA,NA
+"154",247,"OXYCFB300 Compostilla Project (aka CIUDEN pilot plant) Phase II (Expansion)","Not started","Spain","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,2749,2008,2015,2017,NA,NA
+"155",249,"Alcan Lynemouth","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,5480,2010,NA,2012,NA,NA
+"156",250,"Valleys Energy Ltd, Onllwyn, South Wales","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,6575,2007,2015,2009,NA,NA
+"157",251,"E.ON Ruhrgas Killingholme IGCC","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,6850,2009,2019,2015,NA,NA
+"158",252,"Shell Uniper Humber Hub Blue North Killingholme","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,4384,2022,2027,NA,NA,NA
+"159",253,"INEOS Grangemouth","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2740,2021,2030,NA,NA,NA
+"160",254,"Captain Clean Energy Project (Caledonia Clean Eenergy Project) 1","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,8219,2011,2022,2015,NA,NA
+"161",255,"White Rose CCS Project","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,5480,2012,2020,2015,NA,NA
+"162",256,"RWE nPower - Blyth Post-Combustion Project","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,8220,2008,2014,2009,NA,NA
+"163",257,"RWE nPower - Tilbury Project in UK","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,4110,2006,2016,2009,NA,NA
+"164",258,"E.ON Kingsnorth Ruhrgas UK Post-Combustion Project","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,5480,2008,2014,2010,NA,NA
+"165",259,"Hatfield (aka Don Valley)","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,12329,2007,2020,2012,NA,NA
+"166",260,"Coastal Energy IGCC Project (Teesside)","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,6302,2006,2016,2013,NA,NA
+"167",261,"Hunterston Station CCS","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,10958.9,2009,NA,2012,NA,NA
+"168",262,"Scottish Power - Longannet CCS (Expansion)","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,5480,2009,2014,2011,NA,NA
+"169",264,"Good Spring IGCC","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,2740,2010,NA,2012,NA,NA
+"170",265,"Dave Johnson (aka Dave Johnston) plant","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,3452.05,2019,2027,NA,NA,NA
+"171",266,"Hydrogen Energy California Project (CCPI)","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,7124,2009,2020,2016,NA,NA
+"172",267,"Dry Fork Integrated Commercial Carbon Capture and Storage (CCS)","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,8220,2016,2025,NA,NA,NA
+"173",268,"Kentucky NewGas project","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",NA,13700,2008,2017,2013,NA,NA
+"174",269,"Sweeny Polygeneration with CO2 Capture","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,13700,2008,NA,2012,NA,NA
+"175",270,"W.A. Parish Post-Combustion CO2 Capture and Sequestration Project (Petra Nova)","Not finished","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",3836,3836,2007,NA,2017,2017,2020
+"176",271,"FutureGen 2.0","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",NA,3562,2009,2017,2015,NA,NA
+"177",272,"FutureGen - Mattoon 2","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","Non-EOR",NA,3562,2006,2012,2009,NA,NA
+"178",273,"Trailblazer Energy Center","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,15755,2007,2014,2013,NA,NA
+"179",274,"Mountaineer Commercial Scale Carbon Capture and Storage (CCS) Project in Mason County, WV (CCPI) (Expansion)","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",NA,4110,2007,NA,2017,NA,NA
+"180",275,"Mountaineer Commercial Scale Carbon Capture and Storage (CCS) Project in Mason County, WV (CCPI)","Completed","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",274,NA,2007,NA,2011,2009,2011
+"181",276,"DKRW Energy LLC (Medicine Bow Project)","Not started","United States","R10NORTH_AM","Fossil Industry","CTL","EOR",NA,6320,2009,2015,2016,NA,NA
+"182",277,"PurGen Project","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",NA,12329,2009,NA,2011,NA,NA
+"183",278,"Taylorville Energy Center","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power",NA,NA,8000,2009,2015,2013,NA,NA
+"184",279,"Polk Powerplant Demonstration Project (Tampa Electric - Scale-Up of High-Temperature Syngas Cleanup Technology)","Completed","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",821.92,821.92,2010,NA,2014,2014,2016
+"185",280,"Tampa Electric Company Polk Power station NGCC (FL)","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","Non-EOR",NA,10137,2022,NA,NA,NA,NA
+"186",281,"Broadwing Complex","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,2740,2021,2025,NA,NA,NA
+"187",282,"Lake Charles Clean Energy (ICCS) aka Leucadia Energy LLC 2","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","Non-EOR",NA,10950,2020,2025,NA,NA,NA
+"188",283,"Lake Charles Clean Energy (ICCS) aka Leucadia Energy LLC","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","EOR",NA,12328,2009,NA,2014,NA,NA
+"189",284,"Jamestown","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",NA,1095,2007,NA,2012,NA,NA
+"190",285,"Duke Energy - Edwardsport Plant","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,12000,2006,2012,2011,NA,NA
+"191",286,"Baard Energy - Ohio River Clean Fuels","Not started","United States","R10NORTH_AM","Fossil Industry","CTL","EOR",NA,3600,2007,2013,2011,NA,NA
+"192",287,"Cash Creek IGCC","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,5479,2010,2015,2013,NA,NA
+"193",288,"Mesaba Energy Project","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,12330,2006,2012,2011,NA,NA
+"194",289,"American Electric Power - Northeastern Station","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,4110,2007,2011,2009,NA,NA
+"195",290,"Prairie State Generating Station Carbon Capture","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","Non-EOR",NA,15068,2019,2026,NA,NA,NA
+"196",291,"Project Tundra","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,9178,2019,2026,NA,NA,NA
+"197",292,"San Juan Generating Station Carbon Capture","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,16438,2019,2023,NA,NA,NA
+"198",293,"Gerald Gentleman Station Carbon Capture","Future","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,11781,2019,2025,NA,NA,NA
+"199",294,"Antelope Valley Station (CCPI)","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,3000,2009,2012,2010,NA,NA
+"200",295,"NRG Energy Inc. (Somerset Plant)","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power",NA,NA,6850,2008,NA,2011,NA,NA
+"201",296,"Summit Energy - Texas Clean Energy Project (TCEP, CCPI)","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,7400,2010,NA,2015,NA,NA
+"202",298,"Kollsnes DACCS","Future","Norway","R10EUROPE","DACCS","DACCS","Non-EOR",NA,1370,2021,NA,NA,NA,NA
+"203",299,"Scotland DACCS","Future","United Kingdom","R10EUROPE","DACCS","DACCS","Non-EOR",NA,1370,2021,2026,NA,NA,NA
+"204",300,"Kemper County IGCC Project","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,8220,2010,2014,2017,NA,NA
+"205",301,"Great Plains Synfuel Plant and Weyburn-Midale ","Active","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",5480,8219,1998,NA,NA,2000,NA
+"206",302,"Hunton Energy Freeport Plant","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,5479,2007,2012,2015,NA,NA
+"207",303,"Wolverine Power Supply Cooperative Inc. - Industrial Capture Project","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,822,2009,NA,2013,NA,NA
+"208",304,"Quintana","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,5753.42,2009,2018,2014,NA,NA
+"209",305,"White Tiger","Not started","Vietnam","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,12600,2005,2015,2006,NA,NA
+"210",307,"Sulcis CCS","Not started","Italy","R10EUROPE","Fossil Electricity","Coal Power","EOR",NA,600,2009,2015,2014,NA,NA
+"211",308,"Taichung CCS (Expansion)","Not started","China","R10CHINA+","Fossil Electricity","Coal Power","Non-EOR",NA,2739.73,2010,2020,2015,NA,NA
+"212",311,"Indiana Gasification Project","Not started","United States","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,15068,2009,NA,2014,NA,NA
+"213",312,"Shand","Not started","Canada","R10NORTH_AM","Fossil Electricity","Coal Power","EOR",NA,5479.45,2013,NA,2020,NA,NA
+"214",314,"Acorn DACCS","Future","United Kingdom","R10EUROPE","DACCS","DACCS","Non-EOR",NA,1370,2021,2026,NA,NA,NA
+"215",315,"OXY and Carbon Engineering Direct Air Capture and EOR Facility","Future","United States","R10NORTH_AM","DACCS","DACCS","EOR",NA,2740,2019,2023,NA,NA,NA
+"216",316,"Haru Oni Demonstration Plant","Future","Chile","R10LATIN_AM","DACCS","DACCS","Utilisation",NA,3835.62,2020,2026,NA,NA,NA
+"217",317,"Black & Veatch DACCS","Future","United States","R10NORTH_AM","DACCS","DACCS",NA,NA,273.92,2021,NA,NA,NA,NA
+"218",318,"Silicon Kingdom holdings DACCS","Future","United States","R10NORTH_AM","DACCS","DACCS",NA,NA,1000,2021,NA,NA,NA,NA
+"219",319,"Illinois DACCS","Future","United States","R10NORTH_AM","DACCS","DACCS",NA,NA,NA,2021,NA,NA,NA,NA
+"220",320,"Mid West Blue Hydrogen",NA,"Australia","R10PAC_OECD","Fossil Industry","Hydrogen (NG)",NA,NA,NA,2021,NA,NA,NA,NA
+"221",321,"South West Blue Hydrogen",NA,"Australia","R10PAC_OECD","Fossil Industry","Hydrogen (NG)",NA,NA,NA,2021,NA,NA,NA,NA
+"222",322,"Midwest AgEnergy Blue Flint ethanol CCS","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,548,2020,2022,NA,NA,NA
+"223",323,"Project Interseqt - Hereford Ethanol Plant","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","EOR",NA,959,2018,2023,NA,NA,NA
+"224",324,"Project Interseqt - Plainview Ethanol Plant","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","EOR",NA,959,2018,2023,NA,NA,NA
+"225",325,"Red Trail BECCS","Active","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,493,2019,2025,2022,2022,NA
+"226",326,"Atkinson Biorefinery  Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,430,2021,2024,NA,NA,NA
+"227",327,"Casselton Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1373,2021,2024,NA,NA,NA
+"228",328,"Central City Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,910,2021,2024,NA,NA,NA
+"229",329,"Lawler Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1567,2021,2024,NA,NA,NA
+"230",330,"Marcus Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1255,2021,2024,NA,NA,NA
+"231",331,"Borg CO2","Future","Norway","R10EUROPE",NA,NA,"Non-EOR",NA,1726,2018,NA,NA,NA,NA
+"232",332,"Mina Biorefinery Carbon Capture and Storage (or Ming?)","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1096,2021,2024,NA,NA,NA
+"233",333,"One Earth Energy facility Carbon Capture","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1370,2019,2025,NA,NA,NA
+"234",334,"PTTEP CCS","Future","Thailand","R10REST_ASIA","NGP","Natural Gas Processing","Non-EOR",NA,2328.8,2021,2026,NA,NA,NA
+"235",335,"Watertown Biorefinery Carbon Capture and Storage","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,1019,2021,2024,NA,NA,NA
+"236",336,"Arkalon CO2 Compression Facility","Active","United States","R10NORTH_AM","BECCS Industry","Ethanol","EOR",685,685,2007,NA,2009,2009,NA
+"237",337,"Artenay project","Not started","France","R10EUROPE","BECCS Industry","Ethanol","Non-EOR",NA,547.95,2008,NA,2010,NA,NA
+"238",340,"Greenville ethanol","Not started","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,2739,2008,2011,2009,NA,NA
+"239",341,"Pacific Ethanol","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,2054.79,2019,NA,NA,NA,NA
+"240",343,"Sinopec Zhongyuan Carbon Capture Utilization and Storage 3","Active","China","R10CHINA+","Fossil Industry","Hydrogen (Oil) and Oil Processing","EOR",438.35,438.35,2006,NA,2015,2015,NA
+"241",345,"Northwest Upgrader Refinery (Sturgeon)","Active","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","EOR",3288,3288,2013,2016,2020,2020,NA
+"242",346,"Quest Carbon Capture and Storage Project","Active","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",3290,3290,2009,NA,2015,2015,NA
+"243",347,"Polaris CCS Project","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2055,2021,2026,NA,NA,NA
+"244",348,"Qilu petrochemical complex","Active","China","R10CHINA+","Fossil Industry","Hydrogen (Coal)","EOR",2739,2739,2017,2022,2022,2022,NA
+"245",349,"Air Liquide Refinery Rotterdam CCS (Porthos)","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2192,2019,2024,NA,NA,NA
+"246",351,"ExxonMobil Benelux Refinery CCS (Porthos)","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,NA,2019,2024,NA,NA,NA
+"247",352,"Shell Refinery Rotterdam CCS (Porthos)","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,3150,2019,2024,NA,NA,NA
+"248",353,"Air Products Refinery Rotterdam CCS 2","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,NA,2019,2024,NA,NA,NA
+"249",354,"Pernis Refinery Project (aka Barendrecht Project)","Not started","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","EOR",NA,1096,2009,NA,2010,NA,NA
+"250",355,"Preem CCS (Expansion)","Future","Sweden","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1370,2018,2025,NA,NA,NA
+"251",357,"Gothenburg CCS","Future","Sweden","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1370,2022,NA,NA,NA,NA
+"252",358,"Hydrogen Power Abu Dhabi Project","Not started","UAE","R10MIDDLE_EAST","Fossil Industry","Hydrogen (NG)","EOR",NA,4658,2009,2015,2011,NA,NA
+"253",359,"Net Zero Teesside – BP H2Teesside","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,5479,2021,2030,NA,NA,NA
+"254",360,"Humber Zero - Phillips 66 Humber Refinery CCS","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,9315,2020,2030,NA,NA,NA
+"255",361,"Hydrogen to Humber Saltend","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,3288,2020,2026,NA,NA,NA
+"256",362,"MEDWAY POWER STATIONS","Future","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,20821,2022,NA,NA,NA,NA
+"257",363,"BP-Peterhead Hydrogen Power Plant/Miller Field Project (Peterhead 1)","Not started","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","EOR",NA,2740,2005,NA,2007,NA,NA
+"258",364,"Guanghui Energy CCUS integation project Phase 1","Future","China","R10CHINA+","Fossil Electricity","Coal Power","EOR",NA,275,2022,NA,NA,NA,NA
+"259",365,"Hackberry Carbon Sequestration (HCS) project at Cameron LNG (LA)","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,5479,2022,NA,NA,NA,NA
+"260",366,"H2GE Rostock","Future","Germany","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,5450,2022,NA,NA,NA,NA
+"261",367,"CYCLUS POWER GENERATION","Future","United States","R10NORTH_AM","BECCS Electricity","Bioenergy","Non-EOR",NA,2749,2022,2032,NA,NA,NA
+"262",368,"Acorn Phase 1 (Hydrogen)","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1096,2018,2025,NA,NA,NA
+"263",369,"Air Products and Chemicals Inc. CCS Project (Port Arthur, Valero Refinery)","Active","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",2740,2740,2009,NA,2013,2013,NA
+"264",370,"Wabash Valley Resources","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","Non-EOR",NA,4110,2019,2024,NA,NA,NA
+"265",371,"SK Ulsan Complex","Future","South Korea","R10REST_ASIA","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1096,2021,2026,NA,NA,NA
+"266",372,"Louisiana clean energy complex","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,13700,2021,2025,NA,NA,NA
+"267",373,"Ascension Clean Energy (ACE) complex (LA)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,32876,2022,2027,NA,NA,NA
+"268",374,"Athabasca Leismer project (ALB)","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing",NA,NA,449,2022,2024,NA,NA,NA
+"269",375,"Praxair Inc. CO2 Capture and Sequestration Project","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",NA,2740,2007,NA,2011,NA,NA
+"270",376,"Praxair Inc. CO2 Capture and Sequestration Project 2","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",NA,3287.67,2020,NA,NA,NA,NA
+"271",377,"Faustina CCS H2","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",NA,4109.59,2007,2019,2012,NA,NA
+"272",378,"Hydrogen Energy Supply Chain (HESC)","Future","Australia","R10PAC_OECD","Fossil Industry","Hydrogen (Coal)","Non-EOR",NA,4932,2018,2030,NA,NA,NA
+"273",379,"Normandy CCS","Future","France","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1780.82,2021,2030,NA,NA,NA
+"274",381,"H2BE","Future","Belgium","R10EUROPE","Fossil Industry","Hydrogen (NG)",NA,NA,NA,2021,2030,NA,NA,NA
+"275",382,"Mote California","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,411,2021,2024,NA,NA,NA
+"276",383,"Fawley Refinery","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,5479,2021,2030,NA,NA,NA
+"277",384,"Zeeland refinery CCS","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)",NA,NA,2400,2021,NA,NA,NA,NA
+"278",385,"H2morrow","Future","Germany","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,5205.47,2019,2030,NA,NA,NA
+"279",386,"H2M-Magnum project","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,3561,2018,2027,NA,NA,NA
+"280",387,"Cavendish project","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,8219,2019,2030,NA,NA,NA
+"281",388,"Port of Corpus Christi Howard's Javelina refinery","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)",NA,NA,NA,2021,NA,NA,NA,NA
+"282",389,"ULCOS Florange (ArcelorMittal)","Not started","France","R10EUROPE","Industry: Process","Iron and Steel","Non-EOR",NA,1370,2009,2015,2012,NA,NA
+"283",390,"Dunkirk Phase 2","Future","France","R10EUROPE","Industry: Process","Iron and Steel","Non-EOR",NA,7808,2021,2030,NA,NA,NA
+"284",391,"DMX Demonstration in Dunkirk (aka Valorco) (Expansion)","Future","France","R10EUROPE","Industry: Process","Iron and Steel","Non-EOR",NA,2740,2019,2025,NA,NA,NA
+"285",394,"Darwin CCS","Future","Australia","R10PAC_OECD","NGP","Natural Gas Processing","Non-EOR",NA,6301,2022,NA,NA,NA,NA
+"286",395,"Al Reyadah (Emirates Steel Industries (ESI) CCS Project, Abu Dhabi CCS Project)","Active","UAE","R10MIDDLE_EAST","Industry: Process","Iron and Steel","EOR",2191.78,2191.78,2009,NA,2016,2016,NA
+"287",396,"Al Reyadah (Emirates Steel Industries (ESI) CCS Project, Abu Dhabi CCS Project)","Future","UAE","R10MIDDLE_EAST","Industry: Process","Iron and Steel","EOR",NA,13698.63,2020,2030,NA,NA,NA
+"288",397,"Nauticol Energy Blue Methanol","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",NA,2740,2018,2025,NA,NA,NA
+"289",398,"ZENG Worsham-Steed","Not started","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","EOR",NA,870,2007,2012,2010,NA,NA
+"290",399,"Pegasus Rotterdam","Not started","Netherlands","R10EUROPE","Fossil Electricity","Natural Gas Power","EOR",NA,6849,NA,NA,2011,NA,NA
+"291",400,"Halten CO2 Project (Draugen-Heidrun)","Not started","Norway","R10EUROPE","Fossil Electricity","Natural Gas Power","EOR",NA,5753,2006,2012,2007,NA,NA
+"292",401,"Mongstad Cogeneration Plant with CO2 Storage","Not started","Norway","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,2740,2006,2012,2013,NA,NA
+"293",402,"Karsto NGCC Capture Project","Not started","Norway","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,2740,2006,2012,2010,NA,NA
+"294",403,"Horizon oil sands","Active","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (Oil) and Oil Processing","EOR",NA,1095,NA,NA,NA,2018,NA
+"295",404,"Industrikraft More CCS","Not started","Norway","R10EUROPE","Fossil Electricity","Natural Gas Power","EOR",NA,2082,2009,NA,2013,NA,NA
+"296",405,"Net Zero Teesside - NET Power Plant","Future","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,5479,2018,2028,NA,NA,NA
+"297",406,"Humber Zero - VPI Immingham Power Plant CCS","Future","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,9315,2020,2030,NA,NA,NA
+"298",407,"Captain Clean Energy Project (Caledonia Clean Eenergy Project) 2","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,8493,2016,2025,2018,NA,NA
+"299",408,"Peterhead 2","Not started","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,2740,2010,2020,2015,NA,NA
+"300",409,"Peterhead 3","Future","United Kingdom","R10EUROPE","Fossil Electricity","Natural Gas Power",NA,NA,4110,2021,2026,NA,NA,NA
+"301",410,"CalCapture","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","EOR",NA,3836,2019,2025,NA,NA,NA
+"302",411,"Coyote Clean Power Project","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","Non-EOR",NA,2356,2020,2025,NA,NA,NA
+"303",412,"Mustang Station of Golden Spread Electric Cooperative Carbon Capture","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","EOR",NA,2740,2019,2025,NA,NA,NA
+"304",413,"Halanga CCS","Future","Romania","R10EUROPE","Fossil Electricity","Natural Gas Power",NA,NA,1045.69,2020,2024,NA,NA,NA
+"305",415,"Deer Park Energy Center NGCC Carbon Capture System FEED Study","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,13698.63,2021,NA,NA,NA,NA
+"306",416,"Front-End Engineering Design for a CO2 Capture System at Calpine’s Delta Energy Center","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,5974.36,2021,NA,NA,NA,NA
+"307",417,"Retrofittable Advanced Combined Cycle Integration for Flexible Decarbonized Generation","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,NA,2021,NA,NA,NA,NA
+"308",418,"FEED Study for Retrofitting a 2x2x1 Natural Gas-Fired Gas Turbine Combined Cycle Power Plant for Carbon Capture Storage/Utilization aka Panda Energy","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power",NA,NA,NA,2019,NA,NA,NA,NA
+"309",419,"Plant Daniel CCS","Future","United States","R10NORTH_AM","Fossil Electricity","Natural Gas Power","Non-EOR",NA,4931,2019,2025,NA,NA,NA
+"310",420,"Koyali refinery in Gujarat","Future","India","R10INDIA+","Fossil Industry","Hydrogen (NG)","EOR",NA,1918,2022,2025,NA,NA,NA
+"311",421,"In Salah Gas Storage Project","Not finished","Algeria","R10MIDDLE_EAST","NGP","Natural Gas Processing","Non-EOR",1500,2328,1997,NA,2004,2004,2011
+"312",422,"Gorgon Project","Active","Australia","R10PAC_OECD","NGP","Natural Gas Processing","Non-EOR",6679,10958,2009,2016,2019,2019,NA
+"313",423,"Browse LNG","Future","Australia","R10PAC_OECD","NGP","Natural Gas Processing","Non-EOR",NA,NA,2012,2028,NA,NA,NA
+"314",424,"Moomba Cooper Basin Carbon Storage Project 2","Future","Australia","R10PAC_OECD","NGP","Natural Gas Processing","Non-EOR",NA,4657,2019,2024,NA,NA,NA
+"315",425,"Moomba Cooper Basin Carbon Storage Project","Not started","Australia","R10PAC_OECD","NGP","Natural Gas Processing","EOR",NA,2740,2006,2010,2009,NA,NA
+"316",426,"Petrobras Santos ","Active","Brazil","R10LATIN_AM","NGP","Natural Gas Processing","EOR",5753,12600,2006,NA,2013,2013,NA
+"317",427,"PCOR Development Phase - Ft. Nelson Project","Not started","Canada","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,4739,2007,2018,2012,NA,NA
+"318",428,"Caroline Carbon Capture Power Complex","Future","Canada","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,2740,2018,2026,NA,NA,NA
+"319",429,"Air Products Net-Zero Hydrogen Energy Complex (aka Blue but Better)","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)",NA,NA,8219,2021,2024,NA,NA,NA
+"320",430,"Suncor Edmonton Refinery","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)",NA,NA,5479,2021,2028,NA,NA,NA
+"321",431,"Jilin Oil Field EOR 2","Active","China","R10CHINA+","NGP","Natural Gas Processing","EOR",1644,1644,2008,NA,2018,2018,NA
+"322",432,"CO2 EOR Project Croatia","Active","Croatia","R10EUROPE","NGP","Natural Gas Processing","EOR",1095.89,NA,NA,NA,NA,2014,NA
+"323",434,"Gundih project","Future","Indonesia","R10REST_ASIA","NGP","Natural Gas Processing","EOR",NA,822,2012,2026,NA,NA,NA
+"324",435,"Bintulu CCS Project","Future","Malaysia","R10REST_ASIA","NGP","Natural Gas Processing","Non-EOR",NA,8220,2011,2025,NA,NA,NA
+"325",436,"RWE CCS Eemshaven (Nuon Magnum) 2","Future","Netherlands","R10EUROPE","Fossil Electricity","Natural Gas Power","Non-EOR",NA,15068,2022,2030,NA,NA,NA
+"326",437,"Yara CCS project (aka Yara Porsgrunn Demonstration Project)","Not started","Norway","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2192,2016,2022,2018,NA,NA
+"327",438,"Yara Sluiskil","Future","Netherlands","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,2191,2022,2024,NA,NA,NA
+"328",439,"Snohvit Field LNG and CO2 Storage Project","Active","Norway","R10EUROPE","NGP","Natural Gas Processing","Non-EOR",1918,1918,2001,NA,2008,2008,NA
+"329",440,"Sleipner Project","Active","Norway","R10EUROPE","NGP","Natural Gas Processing","Non-EOR",2740,2740,1990,NA,1996,1996,NA
+"330",441,"Borzecin Acid Gas Injection","Active","Poland","R10EUROPE","NGP","Natural Gas Processing","EOR",416,416,1985,NA,1996,1996,NA
+"331",443,"Qatar Ras Laffan LNG","Active","Qatar","R10MIDDLE_EAST","NGP","Natural Gas Processing","EOR",5750,5750,2015,NA,2019,2019,NA
+"332",444,"Qatar Ras Laffan LNG","Future","Qatar","R10MIDDLE_EAST","NGP","Natural Gas Processing","EOR",NA,7945.2,2019,2025,NA,NA,NA
+"333",445,"Uthmaniyah CO2 EOR Demo Project","Active","Saudi Arabia","R10MIDDLE_EAST","NGP","Natural Gas Processing","EOR",2192,2192,2013,NA,2015,2015,NA
+"334",446,"Acorn CO2 NGP (Phase 1)","Future","United Kingdom","R10EUROPE","NGP","Natural Gas Processing","Non-EOR",NA,822,2016,2024,NA,NA,NA
+"335",447,"G2 Net-zero LNG","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",NA,10960,2020,2027,NA,NA,NA
+"336",448,"Riley Ridge Gas Plant","Not started","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",NA,6850,2008,2020,2015,2013,2015
+"337",449,"Leucadia Mississippi","Not started","United States","R10NORTH_AM","Fossil Industry","Hydrogen (Coal)","EOR",NA,10958.9,2009,2015,2013,NA,NA
+"338",450,"Lost Cabin (Storage project: Bell Creek OR Denbury, Transportation: Greencore)","Not finished","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",2465.75,2465.75,2010,NA,2013,2013,2018
+"339",451,"NextDecade Rio Grande LNG CCS","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,13670,2020,2025,NA,NA,NA
+"340",452,"Cerilon gas-to-liquids","Future","United States","R10NORTH_AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341",453,"Century Plant Gas Processing","Active","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",13700,23014,2008,2012,2012,2012,NA
+"342",454,"Oakdale NG Processing","Completed","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",1096,1096,NA,NA,2007,2007,2020
+"343",455,"RCSP (Development Phase): Michigan Basin Project (Northern Reef Trend) aka Core Energy CO2 EOR","Active","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",710,710,2008,NA,2013,2013,NA
+"344",456,"Shute Creek Plant (Expansion 2)","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",NA,2739,2020,2025,NA,NA,NA
+"345",457,"Shute Creek Plant (Expansion 1)","Active","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",8220,8220,2008,NA,NA,2010,NA
+"346",458,"Shute Creek Plant","Active","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",10958,10958,NA,NA,NA,1987,NA
+"347",459,"Carbon Dioxide Technology Corp - Lubbock Plant","Completed","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",1000,NA,NA,NA,NA,1982,1986
+"348",460,"Terrell Natural Gas Processing plant 1","Completed","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",1370,NA,NA,NA,NA,1972,1997
+"349",461,"Terrell Natural Gas Processing plant 3","Active","United States","R10NORTH_AM","NGP","Natural Gas Processing","EOR",1370,NA,NA,NA,NA,2015,NA
+"350",462,"ADNOC CO2 Capture Project  in Liwa Desert (aka ABU DHABI CCS PHASE 2: NATURAL GAS PROCESSING PLANT)","Future","UAE","R10MIDDLE_EAST","NGP","Natural Gas Processing","EOR",NA,11507,2018,2030,NA,NA,NA
+"351",463,"Venture Global LNG (Calcasieu)","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,1369.86,2021,2024,NA,NA,NA
+"352",464,"Venture Global LNG (Plaquemines)","Future","United States","R10NORTH_AM","NGP","Natural Gas Processing","Non-EOR",NA,1369.86,2021,2024,NA,NA,NA
+"353",465,"Abadi project","Future","Indonesia","R10REST_ASIA","NGP","Natural Gas Processing",NA,NA,5479,2022,2027,NA,NA,NA
+"354",466,"Sakakemang project","Future","Indonesia","R10REST_ASIA","NGP","Natural Gas Processing","Non-EOR",NA,5479.45,2020,2027,NA,NA,NA
+"355",467,"Sukowati project","Future","Indonesia","R10REST_ASIA","NGP","Natural Gas Processing","EOR",NA,5500,2020,2028,NA,NA,NA
+"356",468,"Blue Bison","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)",NA,NA,4521,2021,NA,NA,NA,NA
+"357",469,"Project Bison Phase 1-4","Future","United States","R10NORTH_AM","DACCS","DACCS","Non-EOR",NA,13698,2022,NA,NA,NA,NA
+"358",470,"Tangguh project","Future","Indonesia","R10REST_ASIA","NGP","Natural Gas Processing","EOR",NA,8219.18,2020,2026,NA,NA,NA
+"359",471,"Mellitah","Future","Libya","R10MIDDLE_EAST","NGP","Natural Gas Processing","Non-EOR",NA,8219.18,2021,2025,NA,NA,NA
+"360",472,"Wallula Pulp and paper CCS (Boise White Paper Mill)","Not started","United States","R10NORTH_AM","BECCS Industry","Pulp and Paper","Non-EOR",NA,2055,2009,NA,2014,NA,NA
+"361",473,"Klemetsrud Waste to Energy Plant (aka Frevar aka Fortum Oslo Varme) (Expansion)","Future","Norway","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,1096,2015,2025,NA,NA,NA
+"362",475,"Net Zero Teesside - Suez Waste to Energy CCS","Future","United Kingdom","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,500,2018,2027,NA,NA,NA
+"363",476,"ZEROS","Future","United States","R10NORTH_AM","BECCS Electricity","Waste","EOR",NA,4110,2019,2027,NA,NA,NA
+"364",477,"The Illinois Clean Fuels Project","Future","United States","R10NORTH_AM","BECCS Electricity","Waste","Non-EOR",NA,22260,2019,2025,NA,NA,NA
+"365",478,"Stanlow refinery (HyNet)","Future","United Kingdom","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,1643,2020,2026,NA,NA,NA
+"366",479,"Copenhill (Amager Bakke) Waste to Energy CCS (Expansion)","Future","Denmark","R10EUROPE","BECCS Electricity","Waste","Non-EOR",NA,1370,2020,2025,NA,NA,NA
+"367",504,"RWE Amer power plant","Future","Netherlands","R10EUROPE","Fossil Electricity","Coal Power","Non-EOR",NA,15068,2022,2032,NA,NA,NA
+"368",507,"Shell Chemical CCS Project (ICCS)","Not started","United States","R10NORTH_AM",NA,NA,"Non-EOR",NA,2739,2009,NA,2010,NA,NA
+"369",510,"Imperial Oil renewable diesel","Future","Canada","R10NORTH_AM","Fossil Industry","Hydrogen (NG)",NA,NA,1369,2021,2024,NA,NA,NA
+"370",512,"Energean CCS Prinos","Future","Greece","R10EUROPE","NGP","Natural Gas Processing","Non-EOR",NA,2749,2022,2025,NA,NA,NA
+"371",518,"Aemetis biofuel","Future","United States","R10NORTH_AM","BECCS Industry","Ethanol","Non-EOR",NA,5479.45,2021,2024,NA,NA,NA
+"372",520,"Longford gas plant","Future","Australia","R10PAC_OECD","NGP","Natural Gas Processing","Non-EOR",NA,5479,2022,2025,NA,NA,NA
+"373",521,"Lone Cypress Hydrogen project (CA)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,275,2022,2025,NA,NA,NA
+"374",522,"Linde hydrogen plant for OCI fertilizer blue ammonia Beaumont (TX)","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,4658,2022,2025,NA,NA,NA
+"375",525,"MHI-Denbury Gulf of Mexico","Future","United States","R10NORTH_AM","Fossil Industry","Hydrogen (NG)","EOR",NA,4932,2021,2027,NA,NA,NA
+"376",627,"HyNet North West - Hanson Cement CCS","Future","United Kingdom","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,2192,2020,2030,NA,NA,NA
+"377",1546,"ERVIA CCUS Irving refinery","Future","Ireland","R10EUROPE","Fossil Industry","Hydrogen (NG)","Non-EOR",NA,6849.32,2019,2028,NA,NA,NA
+"378",1557,"Norcem Brevik (Expansion)","Future","Norway","R10EUROPE","Industry: Process","Cement","Non-EOR",NA,1096,2013,2024,NA,NA,NA
+"379",1639,"CEMEX Inc. Cement CO2 Capture Project","Not started","United States","R10NORTH_AM","Industry: Process","Cement",NA,NA,2739.73,2009,NA,2011,NA,NA
